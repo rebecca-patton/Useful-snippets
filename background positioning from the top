@@ -1,0 +1,6 @@
+<style>
+@media (min-width: 768px) {
+  .wvu-overflow-hidden {
+    background-position: center top 15%; }
+  }
+</style>
